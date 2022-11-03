@@ -80,7 +80,7 @@ $b = 5;
 $c = 10;
 
 function myTest3(){
-    global $b, p ;
+    global $b ;
     $c = $b + $c;
 }
 myTest3();

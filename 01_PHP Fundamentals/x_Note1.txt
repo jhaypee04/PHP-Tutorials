@@ -1,0 +1,6 @@
+XAMPP-
+X-CrossPlatform Compatible- Windows, MacOS, OS etc
+A-Apache = Server
+M-MariaDB(MySQL) = Database
+P-PHP = Programming scripts (files)
+P-PERL 
